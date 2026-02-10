@@ -1,6 +1,6 @@
 # 🚀 Machine Learning Algorithms Portfolio
 
-> A comprehensive collection of production-ready machine learning implementations demonstrating end-to-end ML workflows, from data preprocessing to model deployment insights.
+> A comprehensive collection of production-ready machine learning implementations demonstrating ML Modeling cycle, from data preprocessing to model evaluation insights.
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
@@ -200,17 +200,6 @@ Each notebook follows a consistent **ML pipeline structure**:
 
 ---
 
-## 🔮 Future Enhancements
-
-- [ ] Add deep learning implementations (TensorFlow/PyTorch)
-- [ ] Implement model deployment using Flask/FastAPI
-- [ ] Create automated ML pipelines with MLflow tracking
-- [ ] Add time series forecasting notebooks (ARIMA, LSTM)
-- [ ] Include natural language processing examples
-- [ ] Develop interactive dashboards using Streamlit
-
----
-
 ## 📫 Contact
 
 **[ SP Pandey]**  
@@ -224,7 +213,6 @@ Each notebook follows a consistent **ML pipeline structure**:
 - Dataset sources: UCI Machine Learning Repository, Kaggle,SkillsNetwork
 - Inspiration from industry best practices and academic research
 - Built with passion for machine learning and continuous learning
-- A special thank to IBM Corporation
 ---
 
 <div align="center">
