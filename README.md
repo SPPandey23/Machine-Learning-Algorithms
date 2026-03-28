@@ -1,4 +1,4 @@
-# 🚀 Machine Learning Algorithms Portfolio
+# Machine Learning Algorithms Portfolio
 
 > A comprehensive collection of production-ready machine learning implementations demonstrating ML Modeling cycle, from data preprocessing to model evaluation insights.
 
@@ -9,7 +9,7 @@
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#-overview)
 - [Key Highlights](#-key-highlights)
@@ -24,7 +24,7 @@
 
 ---
 
-## 🎯 Overview
+##  Overview
 
 This repository showcases **hands-on machine learning expertise** through carefully curated notebooks that solve real-world problems. Each implementation follows industry best practices including:
 
@@ -38,18 +38,18 @@ This repository showcases **hands-on machine learning expertise** through carefu
 
 ---
 
-## ✨ Key Highlights
+##  Key Highlights
 
-- 📊 **10+ end-to-end ML implementations** across classification, regression, and clustering
-- 🎯 **Real-world datasets** including fraud detection, customer segmentation, and predictive analytics
-- 🔧 **Production-oriented code** with modular functions and reproducible workflows
-- 📈 **Comprehensive evaluation** using confusion matrices, ROC curves, and statistical tests
-- 🧠 **Algorithm diversity** from classical methods to ensemble learning
-- 📝 **Detailed documentation** with markdown explanations and visual insights
+-  **10+ end-to-end ML implementations** across classification, regression, and clustering
+-  **Real-world datasets** including fraud detection, customer segmentation, and predictive analytics
+-  **Production-oriented code** with modular functions and reproducible workflows
+-  **Comprehensive evaluation** using confusion matrices, ROC curves, and statistical tests
+-  **Algorithm diversity** from classical methods to ensemble learning
+-  **Detailed documentation** with markdown explanations and visual insights
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 Machine-Learning-Algorithms/
@@ -80,7 +80,7 @@ Machine-Learning-Algorithms/
 
 ---
 
-## 🎯 Supervised Learning
+##  Supervised Learning
 
 ### Classification Problems
 
@@ -103,7 +103,7 @@ Machine-Learning-Algorithms/
 
 ---
 
-## 🔍 Unsupervised Learning
+##  Unsupervised Learning
 
 | Notebook | Algorithm | Application | Key Techniques | Evaluation |
 |----------|-----------|-------------|----------------|------------|
@@ -114,7 +114,7 @@ Machine-Learning-Algorithms/
 
 ---
 
-## 🛠️ Technical Stack
+##  Technical Stack
 
 **Core Libraries:**
 - `pandas` & `numpy` - Data manipulation and numerical computing
@@ -129,7 +129,7 @@ Machine-Learning-Algorithms/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Python 3.9 or higher
@@ -168,7 +168,7 @@ jupyter notebook
 
 ---
 
-## 📊 Methodology
+##  Methodology
 
 Each notebook follows a consistent **ML pipeline structure**:
 
@@ -187,7 +187,7 @@ Each notebook follows a consistent **ML pipeline structure**:
 
 ---
 
-## 📈 Results & Insights
+##  Results & Insights
 
 ### Sample Achievements
 
@@ -200,7 +200,7 @@ Each notebook follows a consistent **ML pipeline structure**:
 
 ---
 
-## 📫 Contact
+##  Contact
 
 **[ SP Pandey]**  
 📧 Email: SPPandey2302@gmail.com  
@@ -208,7 +208,7 @@ Each notebook follows a consistent **ML pipeline structure**:
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Dataset sources: UCI Machine Learning Repository, Kaggle,SkillsNetwork
 - Inspiration from industry best practices and academic research
@@ -217,7 +217,7 @@ Each notebook follows a consistent **ML pipeline structure**:
 
 <div align="center">
   
-**⭐ If you find this repository helpful, please consider giving it a star!**
+** If you find this repository helpful, please consider giving it a star!**
 
 *Crafted for clarity, reproducibility, and demonstrating production-ready ML skills*
 
